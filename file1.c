@@ -9,6 +9,8 @@ int main()
     {
         printf("eat samosa\n");
     }
+    else
+	    printf("drink water\n");
     
     return 0;
 }
