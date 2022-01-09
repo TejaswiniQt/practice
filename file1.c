@@ -10,6 +10,8 @@ int main()
         printf("eat samosa\n");
 	printf("eat burger\n");
     }
+    else
+	    printf("drink water\n");
     
     return 0;
 }
